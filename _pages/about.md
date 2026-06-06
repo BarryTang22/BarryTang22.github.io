@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>University of Bristol, UK</p>
-    <p><a href="mailto:chong.tang@bristol.ac.uk">chong.tang@bristol.ac.uk</a></p>
 
 selected_papers: false
 social: true
@@ -33,3 +30,13 @@ My research focuses on **multimodal reasoning**, **representation learning**, **
 Previously, I was a postdoctoral researcher at UCL and the University of Southampton (with Dr. Jagmohan Chauhan), and I completed my PhD at UCL, advised by Prof. Kevin Chetty and Prof. Simon Julier.
 
 **I am recruiting PhD students.** If you are excited about multimodal reasoning, representation learning, agentic AI, or efficient AI, I would love to hear from you — email me at [chong.tang@bristol.ac.uk](mailto:chong.tang@bristol.ac.uk) with a short note about your interests and your CV. You can also browse my [projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}).
+
+## Academic Service
+
+**Program Committee:** ICMR 2026; EuroSys 2026 (Shadow PC); MobiUK 2024.
+
+**Journal Reviewer:** IEEE Transactions on Mobile Computing; IEEE Sensors Journal; IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics.
+
+**Conference Reviewer:** NeurIPS; ICLR; ICML; ACM Multimedia; IEEE PerCom; UbiComp.
+
+**Professional Membership:** Association for Computing Machinery (ACM).
