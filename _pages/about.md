@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>School of Engineering Mathematics and Technology</p>
     <p>University of Bristol, UK</p>
     <p><a href="mailto:chong.tang@bristol.ac.uk">chong.tang@bristol.ac.uk</a></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
