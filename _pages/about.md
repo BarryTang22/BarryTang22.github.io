@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>School of Engineering Mathematics and Technology</p>
     <p>University of Bristol, UK</p>
+    <p><a href="mailto:chong.tang@bristol.ac.uk">chong.tang@bristol.ac.uk</a></p>
 
 selected_papers: true
 social: true
@@ -28,8 +29,8 @@ latest_posts:
 
 I am **Dr. Chong Tang**, an Assistant Professor (Lecturer) in **Artificial Intelligence** at the **University of Bristol**, in the School of Engineering Mathematics and Technology.
 
-My research is on **efficient and applied AI** for real-world multimodal and time-series data: **robust, resource-aware deep learning** that stays reliable under noise, distribution shift, and practical deployment constraints, combining classical signal processing with foundation models and vision-language models. I have published **30+ peer-reviewed papers** (650+ citations), including at **NeurIPS** and **ICLR**.
+My research focuses on **multimodal reasoning**, **representation learning**, **agentic AI**, and **efficient AI** — building models that reason reliably across modalities and run efficiently in the real world. I have published **30+ peer-reviewed papers** (700+ citations), including at **NeurIPS** and **ICLR**.
 
-I also build **reproducible ML systems**: containerised environments, AWS experimentation, distributed training, and end-to-end data pipelines. Previously I was a postdoctoral researcher at UCL and the University of Southampton (with Dr. Jagmohan Chauhan), and I completed my PhD in Deep Learning-Assisted Perception at UCL, advised by Prof. Kevin Chetty and Prof. Simon Julier.
+Previously, I was a postdoctoral researcher at UCL and the University of Southampton (with Dr. Jagmohan Chauhan), and I completed my PhD at UCL, advised by Prof. Kevin Chetty and Prof. Simon Julier.
 
-I welcome enquiries from prospective PhD students and collaborators interested in efficient foundation models, continual and multi-task learning, RF and multimodal sensing, and trustworthy, scalable AI. See my [publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/cv/' | relative_url }}), or reach me by [email](mailto:tangchong22@gmail.com).
+**I am recruiting PhD students.** If you are excited about multimodal reasoning, representation learning, agentic AI, or efficient AI, I would love to hear from you — email me at [chong.tang@bristol.ac.uk](mailto:chong.tang@bristol.ac.uk) with a short note about your interests and your CV. You can also browse my [projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}).
