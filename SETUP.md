@@ -1,33 +1,27 @@
 # Your al-folio site — status & next steps
 
-Built from your CV (Dr. Chong Tang) on the al-folio theme. Most content is done.
+Live at https://BarryTang22.github.io (GitHub Actions builds and deploys to the `gh-pages` branch).
 
 ## Done
-- Homepage bio, title, and contact — `_pages/about.md`, `_config.yml`
-- Social links: email, Google Scholar, LinkedIn, CV download — `_data/socials.yml`
-- Publications page from your 5 selected papers — `_bibliography/papers.bib`
-- Full CV page: education, experience, grants, publications, teaching, service, awards — `_data/cv.yml`
-- CV PDF compiled from your LaTeX and wired to the download button — `assets/pdf/cv.pdf`
-- News feed: Bristol appointment, ICLR 2026, NeurIPS 2025, NVIDIA grant — `_news/`
-- Navbar trimmed to About / Publications / CV (demo pages hidden)
+- Recruiting-focused homepage (`_pages/about.md`): research in multimodal reasoning, representation
+  learning, agentic AI, efficient AI; 700+ citations; explicit PhD-student call.
+- Contact: chong.tang@bristol.ac.uk; socials: Google Scholar, LinkedIn, GitHub (`_data/socials.yml`).
+- Publications page from `_bibliography/papers.bib`.
+- Projects tab (`_pages/projects.md`, `_projects/`): ongoing and previous research projects.
+- News feed (`_news/`): AIRR funding, Bristol appointment, ICLR 2026, NeurIPS 2025, NVIDIA grant.
+- CV removed from the website (page, nav tab, download button, and PDF all deleted).
 
 ## Left for you
-1. **Photo** — your pasted image didn't arrive as a file. Save it as `assets/img/prof_pic.jpg`
-   (overwrite the placeholder), or send it to me as a file attachment and I'll drop it in.
-2. **GitHub username** — done: set to `BarryTang22`; site URL is `https://BarryTang22.github.io`.
-3. Optional: add ORCID to `_data/socials.yml` (line is ready to uncomment).
+1. **Photo** — pasted images don't reach me as files. In File Explorer, copy your photo into
+   this folder as `assets/img/prof_pic.jpg` (overwrite the placeholder), then re-push.
+2. **Project images (optional)** — project cards use placeholder images; replace the `img:` field
+   in each `_projects/*.md` with your own figures when ready.
 
-## Deploy to GitHub Pages
-1. On github.com, create a public repo named exactly `BarryTang22.github.io`.
-2. In this folder, run:
-   `git init -b main`
-   `git add .`
-   `git commit -m "Initial al-folio site"`
-   `git remote add origin https://github.com/BarryTang22/BarryTang22.github.io.git`
-   `git push -u origin main`
-3. Repo Settings -> Pages -> Source = **GitHub Actions** (al-folio's workflow builds it automatically).
-4. Live at `https://BarryTang22.github.io` about a minute later.
-
-## Preview locally (optional)
-- Docker: `docker compose up` -> http://localhost:8080
-- Ruby: `bundle install` && `bundle exec jekyll serve` -> http://localhost:4000
+## Re-publish after any change
+```
+git add .
+git commit -m "Update site"
+git push
+```
+GitHub Actions rebuilds and redeploys automatically (~2 min).
+Keep Pages on: Settings -> Pages -> Source = Deploy from a branch -> gh-pages -> /(root).
