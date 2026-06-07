@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor (Lecturer) in AI, University of Bristol
+subtitle: Assistant Professor (UK Lecturer) in AI, University of Bristol
 
 profile:
   align: right
@@ -23,16 +23,16 @@ latest_posts:
   limit: 3
 ---
 
-I am **Dr. Chong Tang**, an Assistant Professor (Lecturer) in **Artificial Intelligence** at the **University of Bristol**, in the School of Engineering Mathematics and Technology.
+I am **Chong Tang**, an Assistant Professor (UK Lecturer) in **Artificial Intelligence** at the **University of Bristol**, in the School of Engineering Mathematics and Technology.
 
 I build models that reason reliably across modalities and run efficiently in the real world. My research spans four connected themes:
 
 - **Multimodal reasoning** — reasoning across vision, language, and other modalities.
-- **Representation learning** — learning transferable, structured representations.
+- **Representation learning** — learning world models that capture the structure and dynamics of the world.
 - **Agentic AI** — models that plan, act, and adapt.
 - **Efficient AI** — making models fast and resource-aware enough to deploy.
 
-I have published **30+ peer-reviewed papers** (700+ citations), including at **NeurIPS** and **ICLR**. Previously, I was a postdoctoral researcher at UCL and the University of Southampton (with Dr. Jagmohan Chauhan), and I completed my PhD at UCL, advised by Prof. Kevin Chetty and Prof. Simon Julier.
+I have published **30+ peer-reviewed papers** at top venues in AI and machine learning. Previously, I was a postdoctoral researcher at UCL and the University of Southampton (with Dr. Jagmohan Chauhan and Dr. Alex Weddell), and I completed my PhD at UCL, advised by Prof. Kevin Chetty and Prof. Simon Julier.
 
 > **I am recruiting PhD students.** If you are excited about multimodal reasoning, representation learning, agentic AI, or efficient AI, I would love to hear from you. Email me at [chong.tang@bristol.ac.uk](mailto:chong.tang@bristol.ac.uk) with a short note about your interests and your CV — and browse my [projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}).
 
@@ -43,5 +43,3 @@ I have published **30+ peer-reviewed papers** (700+ citations), including at **N
 **Journal Reviewer:** IEEE Transactions on Mobile Computing; IEEE Sensors Journal; IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics.
 
 **Conference Reviewer:** NeurIPS; ICLR; ICML; ACM Multimedia; IEEE PerCom; UbiComp.
-
-**Professional Membership:** Association for Computing Machinery (ACM).

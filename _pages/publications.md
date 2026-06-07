@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-A selection of my work is below. For the **complete, up-to-date list**, see my
-**[Google Scholar profile](https://scholar.google.com/citations?user=I8-JgK0AAAAJ&hl=en)** (30+ papers, 700+ citations).
+A selection of my work is below, including collaborative papers where I am not the lead author. For the **complete, up-to-date list**, see my
+**[Google Scholar profile](https://scholar.google.com/citations?user=I8-JgK0AAAAJ&hl=en)**.
 
 <div class="publications">
 {% bibliography %}

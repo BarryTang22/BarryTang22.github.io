@@ -9,7 +9,7 @@ last_name: Tang
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Assistant Professor (Lecturer) in AI at the University of Bristol. Research on multimodal reasoning, representation learning, agentic AI, and efficient AI.
+  Assistant Professor (UK Lecturer) in AI at the University of Bristol. Research on multimodal reasoning, world models, agentic AI, and efficient AI.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
