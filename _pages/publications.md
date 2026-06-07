@@ -2,10 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My full, up-to-date publication list is on Google Scholar.
+description: Selected publications — full, up-to-date list on Google Scholar.
 nav: true
 nav_order: 2
 ---
 
-My full and up-to-date list of publications is available on
-**[Google Scholar](https://scholar.google.com/citations?user=I8-JgK0AAAAJ&hl=en)**.
+A selection of my work is below. For the **complete, up-to-date list**, see my
+**[Google Scholar profile](https://scholar.google.com/citations?user=I8-JgK0AAAAJ&hl=en)** (30+ papers, 700+ citations).
+
+<div class="publications">
+{% bibliography %}
+</div>
