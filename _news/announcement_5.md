@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the **University of Bristol** as an Assistant Professor (Lecturer) in AI, in the School of Engineering Mathematics and Technology.
+Joined the **University of Bristol** as an Assistant Professor (UK Lecturer) in AI, in the School of Engineering Mathematics and Technology.
